@@ -94,6 +94,7 @@ def process_png():
             shutil.move(source, target)
 
         messagebox.showinfo("Done", f"[{count}] cards move to [_KKS_card_] folder")
+        kks_card_list = []
     else:
         messagebox.showinfo("Done", f"no KKS card found")
 
