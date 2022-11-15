@@ -1,4 +1,4 @@
-# KoikatsuSunshine Card Filter  
+# Koikatsu Sunshine Card Filter  
 
 check and move the KKS card to a new folder  
 
