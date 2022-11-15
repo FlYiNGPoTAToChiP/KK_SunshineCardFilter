@@ -25,7 +25,7 @@ def check_png(card_path):
     with codecs.open(card_path, "rb") as card:
         data = card.read()
         card_type = 0
-        if data.find(b"KoiKatuChara"):
+        if data.find(b"KoiKatuChara") != -1:
             card_type = 1
             if data.find(b"KoiKatuCharaSP") != -1:
                 card_type = 2
