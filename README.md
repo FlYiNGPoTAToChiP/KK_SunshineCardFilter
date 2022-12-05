@@ -4,7 +4,7 @@ check and
 1. move KKS card to a new folder `_KKS_card_`  
 2. convert KKS card to KK card `_KKS_to_KK_` (on by default)  
 
-![](https://i.imgur.com/QUMwIuP.jpg)  
+![](https://i.imgur.com/AvOeUrY.png)  
 
 Python 3.8  
 
